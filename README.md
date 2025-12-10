@@ -1,4 +1,4 @@
-### HERO Planner - Your Staff Scheduling Superpower
+# HERO Planner - Your Staff Scheduling Superpower
 
 Unleash your inner scheduling hero with HERO Planner, the desktop app that transforms staff management from chaos to control. Perfect for retail, hospitality, and service teams.
 
@@ -22,3 +22,21 @@ Features
 🌙 Dark mode for late-night planning sessions
 
 💾 Auto-save keeps your work
+
+--------------------------
+
+### Credits & Attributions
+
+Icons: Lucide Icons (ISC License)
+
+UI Framework: React (MIT License)
+
+Styling: Tailwind CSS (MIT License)
+
+Desktop App: Electron (MIT License)
+
+Build Tool: Vite (MIT License)
+
+PDF Export: html2pdf.js (MIT License)
+
+Drag & Drop: @hello-pangea/dnd (Apache 2.0)
