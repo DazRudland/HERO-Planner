@@ -23,6 +23,7 @@ Features
 
 💾 Auto-save keeps your work
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V81Q30FN)
 --------------------------
 
 ### Credits & Attributions
